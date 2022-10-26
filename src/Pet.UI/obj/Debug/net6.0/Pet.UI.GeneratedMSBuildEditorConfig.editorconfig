@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = Pet.UI
+build_property.RootNamespace = Pet.UI
+build_property.ProjectDir = C:\Users\cleiton.marques\Desktop\Pet.UI\src\Pet.UI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\cleiton.marques\Desktop\Pet.UI\src\Pet.UI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/cleiton.marques/Desktop/Pet.UI/src/Pet.UI/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cleiton.marques/Desktop/Pet.UI/src/Pet.UI/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cleiton.marques/Desktop/Pet.UI/src/Pet.UI/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cleiton.marques/Desktop/Pet.UI/src/Pet.UI/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cleiton.marques/Desktop/Pet.UI/src/Pet.UI/Pages/Product/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxDcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cleiton.marques/Desktop/Pet.UI/src/Pet.UI/Pages/Product/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cleiton.marques/Desktop/Pet.UI/src/Pet.UI/Pages/Product/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cleiton.marques/Desktop/Pet.UI/src/Pet.UI/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cleiton.marques/Desktop/Pet.UI/src/Pet.UI/Pages/Account/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-7jo47ckgt0
+
+[C:/Users/cleiton.marques/Desktop/Pet.UI/src/Pet.UI/Pages/Account/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxSZWdpc3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-9vhoob6wd8
+
+[C:/Users/cleiton.marques/Desktop/Pet.UI/src/Pet.UI/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-zfcf5rnxtf
+
+[C:/Users/cleiton.marques/Desktop/Pet.UI/src/Pet.UI/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-cvhi04k807

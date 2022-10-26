@@ -1,0 +1,45 @@
+﻿@page "/Account/Login"
+
+<EditForm Model="account" OnValidSubmit="SignIn">
+    <DataAnnotationsValidator />
+
+    <link href="PetUI.styles.css" rel="stylesheet">
+
+    <body>
+        <div class="mb-5">
+            <div class="p-3 m-0 border-0 bd-example">
+                <div class="card d-flex justify-content-center container col-sm-9 col-md-7 col-lg-5">
+
+                    <div class="card-body">
+                        <label>Email</label>
+                        <div class="mb-3 input-group">
+                            <i class="bi bi-person-circle input-group-text"></i>
+                            <InputText class="form-control" @bind-Value="account.UserMail" placeholder="Email@Email.com" />
+                            <ValidationMessage For="() => account.UserMail" />
+                        </div>
+                        <label>Senha</label>
+                        <div class="mb-5 input-group">
+                            <i class="bi bi-key-fill input-group-text"></i>
+                            <InputText type="password" class="form-control" @bind-Value="account.Password" />
+                            <ValidationMessage For="() => account.Password" />
+                        </div>
+                        <div class="mb-3">
+                            <input type="submit" class="btn btn-primary" value="Login" />
+                        </div>                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+
+</EditForm>
+
+@code {
+
+    Account account = new();
+
+    private void SignIn()
+    {
+
+    }
+}

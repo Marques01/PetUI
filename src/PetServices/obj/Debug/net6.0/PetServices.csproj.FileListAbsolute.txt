@@ -1,0 +1,30 @@
+C:\Users\cleit\Desktop\Pet.UI\src\PetServices\obj\Debug\net6.0\PetServices.csproj.AssemblyReference.cache
+C:\Users\cleit\Desktop\Pet.UI\src\PetServices\obj\Debug\net6.0\PetServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleit\Desktop\Pet.UI\src\PetServices\obj\Debug\net6.0\PetServices.AssemblyInfoInputs.cache
+C:\Users\cleit\Desktop\Pet.UI\src\PetServices\obj\Debug\net6.0\PetServices.AssemblyInfo.cs
+C:\Users\cleit\Desktop\Pet.UI\src\PetServices\obj\Debug\net6.0\PetServices.csproj.CoreCompileInputs.cache
+C:\Users\cleit\Desktop\Pet.UI\src\PetServices\bin\Debug\net6.0\PetServices.deps.json
+C:\Users\cleit\Desktop\Pet.UI\src\PetServices\bin\Debug\net6.0\PetServices.dll
+C:\Users\cleit\Desktop\Pet.UI\src\PetServices\bin\Debug\net6.0\PetServices.pdb
+C:\Users\cleit\Desktop\Pet.UI\src\PetServices\bin\Debug\net6.0\PetModels.dll
+C:\Users\cleit\Desktop\Pet.UI\src\PetServices\bin\Debug\net6.0\PetModels.pdb
+C:\Users\cleit\Desktop\Pet.UI\src\PetServices\obj\Debug\net6.0\PetServices.csproj.CopyComplete
+C:\Users\cleit\Desktop\Pet.UI\src\PetServices\obj\Debug\net6.0\PetServices.dll
+C:\Users\cleit\Desktop\Pet.UI\src\PetServices\obj\Debug\net6.0\refint\PetServices.dll
+C:\Users\cleit\Desktop\Pet.UI\src\PetServices\obj\Debug\net6.0\PetServices.pdb
+C:\Users\cleit\Desktop\Pet.UI\src\PetServices\obj\Debug\net6.0\ref\PetServices.dll
+C:\Users\cleit\OneDrive\Área de Trabalho\Pet.UI\src\PetServices\bin\Debug\net6.0\PetServices.deps.json
+C:\Users\cleit\OneDrive\Área de Trabalho\Pet.UI\src\PetServices\bin\Debug\net6.0\PetServices.dll
+C:\Users\cleit\OneDrive\Área de Trabalho\Pet.UI\src\PetServices\bin\Debug\net6.0\PetServices.pdb
+C:\Users\cleit\OneDrive\Área de Trabalho\Pet.UI\src\PetServices\bin\Debug\net6.0\PetModels.dll
+C:\Users\cleit\OneDrive\Área de Trabalho\Pet.UI\src\PetServices\bin\Debug\net6.0\PetModels.pdb
+C:\Users\cleit\OneDrive\Área de Trabalho\Pet.UI\src\PetServices\obj\Debug\net6.0\PetServices.csproj.AssemblyReference.cache
+C:\Users\cleit\OneDrive\Área de Trabalho\Pet.UI\src\PetServices\obj\Debug\net6.0\PetServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleit\OneDrive\Área de Trabalho\Pet.UI\src\PetServices\obj\Debug\net6.0\PetServices.AssemblyInfoInputs.cache
+C:\Users\cleit\OneDrive\Área de Trabalho\Pet.UI\src\PetServices\obj\Debug\net6.0\PetServices.AssemblyInfo.cs
+C:\Users\cleit\OneDrive\Área de Trabalho\Pet.UI\src\PetServices\obj\Debug\net6.0\PetServices.csproj.CoreCompileInputs.cache
+C:\Users\cleit\OneDrive\Área de Trabalho\Pet.UI\src\PetServices\obj\Debug\net6.0\PetServices.csproj.CopyComplete
+C:\Users\cleit\OneDrive\Área de Trabalho\Pet.UI\src\PetServices\obj\Debug\net6.0\PetServices.dll
+C:\Users\cleit\OneDrive\Área de Trabalho\Pet.UI\src\PetServices\obj\Debug\net6.0\refint\PetServices.dll
+C:\Users\cleit\OneDrive\Área de Trabalho\Pet.UI\src\PetServices\obj\Debug\net6.0\PetServices.pdb
+C:\Users\cleit\OneDrive\Área de Trabalho\Pet.UI\src\PetServices\obj\Debug\net6.0\ref\PetServices.dll
